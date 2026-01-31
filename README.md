@@ -95,5 +95,5 @@
 
 <div align="center">
   <p><strong>Digitizing the Campus Experience, One Tap at a Time.</strong></p>
-  <p>如有任何問題，請前往 IT 部或透過 CSJSS Go! 回報 </p>
+  <p>發現 Bug？請透過 CSJSS Go! 內的「意見反饋」功能回報 </p>
 </div>
