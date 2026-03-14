@@ -63,6 +63,10 @@
 * **Wallet 兼容標識**: 
     * `Add to Apple Wallet` 與 `Add to Google Wallet` 的官方彩色圖示，方便學生掃描綁定
 ---
+### 📱 實機運行 (DEMO)
+
+<img src="https://github.com/AriesLinux/CSJSS-PASS/blob/main/demo1.png" width="250" alt="demo1">                                          <img src="https://github.com/AriesLinux/CSJSS-PASS/blob/main/demo2.png" width="250" alt="demo2">
+
 
 ## 📊 運行狀態 (Status)
 
