@@ -66,14 +66,12 @@
 ### 📱 實機運行 (DEMO)
 <img src="https://github.com/AriesLinux/CSJSS-PASS/blob/main/Apple-Pay-Logo.jpg" width="100" alt="Apple Pay Logo"> 
 <p align="center">
-  <img src="https://github.com/AriesLinux/CSJSS-PASS/blob/main/demo1.png" width="300">
-  <img src="https://github.com/AriesLinux/CSJSS-PASS/blob/main/demo2.png" width="300">
+  <img src="https://github.com/AriesLinux/CSJSS-PASS/blob/main/Pay%20Demo1.png" width="1000">
 </p>
 
 <img src="https://github.com/AriesLinux/CSJSS-PASS/blob/main/Google-Pay-Logo.jpg" width="200" alt="Google Pay Logo">   
 <p align="center">
-  <img src="https://github.com/AriesLinux/CSJSS-PASS/blob/main/demo3.png" width="300">
-  <img src="https://github.com/AriesLinux/CSJSS-PASS/blob/main/demo4.png" width="300">
+  <img src="https://github.com/AriesLinux/CSJSS-PASS/blob/main/Pay%20Demo2.png" width="1000">
 </p>
 
 ## 📊 運行狀態 (Status)
