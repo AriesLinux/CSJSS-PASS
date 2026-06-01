@@ -67,12 +67,17 @@
 <img src="https://github.com/AriesLinux/CSJSS-PASS/blob/main/Apple-Pay-Logo.jpg" width="100" alt="Apple Pay Logo"> 
 <p align="center">
   <img src="https://github.com/AriesLinux/CSJSS-PASS/blob/main/Pay%20Demo1.png" width="1000">
+ios 18 (Felica)
+  0.5-2s (So fast)
 </p>
 
 <img src="https://github.com/AriesLinux/CSJSS-PASS/blob/main/Google-Pay-Logo.jpg" width="200" alt="Google Pay Logo">   
 <p align="center">
   <img src="https://github.com/AriesLinux/CSJSS-PASS/blob/main/Pay%20Demo2.png" width="1000">
+Android 16 (NFC-Type A)
+  1-3s (Fast)
 </p>
+
 
 ## 📊 運行狀態 (Status)
 
