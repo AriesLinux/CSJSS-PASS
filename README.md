@@ -67,7 +67,7 @@
 <img src="https://github.com/AriesLinux/CSJSS-PASS/blob/main/Apple-Pay-Logo.jpg" width="100" alt="Apple Pay Logo"> 
 <p align="center">
   <img src="https://github.com/AriesLinux/CSJSS-PASS/blob/main/Pay%20Demo1.png" width="1000">
-ios 18 (Felica)
+iOS 18 (Felica)
   0.5-2s (So fast)
 </p>
 
