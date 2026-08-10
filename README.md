@@ -58,10 +58,10 @@
 新版實體卡面需印製以下標準化標誌，以符合數位化識別：
 
 * **NFC 感應標誌 (Contactless Symbol)**: 
-    * 必須印在卡片右上角，標示感應核心位置
+    * 建議印在卡片右上角，表示此卡支持近場通訊
     <img src="https://github.com/user-attachments/assets/b2b315dc-339e-4d3d-a882-c3b01eb3c625" width="200" alt="EMV">
 * **Wallet 兼容標識**: 
-    * `Add to Apple Wallet` 與 `Add to Google Wallet` 的官方彩色圖示，方便學生掃描綁定
+    * `Add to Apple Wallet` 與 `Add to Google Wallet` 的官方彩色圖示在管理APP中，方便學生掃描綁定
 ---
 ### 📱 實機運行 (DEMO)
 <img src="https://github.com/AriesLinux/CSJSS-PASS/blob/main/Apple-Pay-Logo.jpg" width="100" alt="Apple Pay Logo"> 
